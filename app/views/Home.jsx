@@ -7,7 +7,6 @@ export default function Home() {
     // render
     return (
         <div>
-            <h1>Cououc tout le monde</h1>
             <Baner></Baner>
         </div>
     )
