@@ -1,8 +1,14 @@
-import Home from "./views/Home";
+import './styles/app.scss'
+import Home from "./views/Home"
 export default function Page() {
+  // state
+
+  //comportements
+
+  // render
   return (
-    <div className="">
+    <div>
       <Home></Home>
     </div>
-  );
+  )
 }
